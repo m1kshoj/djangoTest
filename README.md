@@ -1,0 +1,2 @@
+# djangoTest
+sm first test
